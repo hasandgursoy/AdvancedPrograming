@@ -1,0 +1,14 @@
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.AssemblyInfoInputs.cache
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.AssemblyInfo.cs
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.csproj.CoreCompileInputs.cache
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.dll
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/refint/1-Arrays.dll
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.pdb
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/bin/Debug/net8.0/1-Arrays
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/bin/Debug/net8.0/1-Arrays.deps.json
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/bin/Debug/net8.0/1-Arrays.runtimeconfig.json
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/bin/Debug/net8.0/1-Arrays.dll
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/bin/Debug/net8.0/1-Arrays.pdb
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/1-Arrays.genruntimeconfig.cache
+/Users/hasandogacangursoy/Development/NetProjects/AdvancedPrograming/1-Arrays/obj/Debug/net8.0/ref/1-Arrays.dll
